@@ -42,7 +42,7 @@ if game.PlaceId == 7026949294 then
 		_G.MAX_ZONE = PlayerData.CurrentZone	-- not currently important
 		_G.TARGET = "AutumnPaladin"		-- focus attacks to a specific target
 		_G.ZONE_TO_FARM = "22"			-- farm a specific zone
-		_G.EGG = "Autumn Egg 2"		-- Egg to automatically hatch
+		_G.EGG = "AutumnLand Egg 2"		-- Egg to automatically hatch
 		
 		-- Edit these toggles
 		_G.IGNORE_ITEM_MESSAGES = true		-- will remove all weapons obtained from appearing on the screen
